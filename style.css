@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+#header{
+    background-color: #ff6b81;
+    pedding: px;
+
+}
+.navbar {
+    display: flex;
+}
+.navbar{
+    color: azure;
+}
+
+.navbar ul li {
+    display: inline-block;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.container{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.Hero{
+    text-align: center;
+    padding: 45px;
+    background-color: blueviolet;
+}
+.img-profil{
+    width: 250px;
+    height: 250px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
